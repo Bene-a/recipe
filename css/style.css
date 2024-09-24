@@ -1,0 +1,49 @@
+body{
+margin:90px;
+}
+h1 {
+ border-bottom: 4px green solid;
+ color: purple; 
+ font-family: sans serif; 
+ text-transform:uppercase;
+ margin-left:20px;
+ margin-right:400px;
+ border-length:10%;
+}
+h2{
+color: red; padding: 5px; 
+font-family: sans serif;
+text-shadow:1px;
+}
+#h3{
+font-family:sans serif;
+border-left:2px solid black;
+padding-left:-2%;
+}
+#image{
+border:5px double crimson;
+border-radius:50%;
+box-shadow:1px 1px;
+margin-right:70%;
+}
+p {
+font-family:sans serif;
+}
+ul li{
+margin-right:70%;
+border-bottom:thin solid grey;
+border-line:padding-left;
+}
+ul{
+list-style:none;
+}
+#e{
+margin-right:5%;
+}
+h3 {
+border-left:2px solid black;
+}
+
+
+
+
